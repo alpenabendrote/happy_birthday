@@ -32,7 +32,7 @@ PCやタブレットのブラウザ（Google Chrome, Edge, Safariなど）でダ
 
 ### 1. お祝いメッセージと名前の変更
 
-HTML内（<div id="scoreboard">の直後）にある以下の部分を書き換えてください。
+HTML内（`<div id="scoreboard">`の直後）にある以下の部分を書き換えてください。
 
 ```
 <div id="main-message">
